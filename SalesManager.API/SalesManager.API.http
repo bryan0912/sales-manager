@@ -1,0 +1,11 @@
+@SalesManager.API_HostAddress = http://localhost:5170
+
+GET {{SalesManager.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{SalesManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

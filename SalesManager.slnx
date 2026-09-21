@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SalesManager.API/SalesManager.API.csproj" />
+  <Project Path="SalesManager.Application/SalesManager.Application.csproj" />
+  <Project Path="SalesManager.Domain/SalesManager.Domain.csproj" />
+  <Project Path="SalesManager.Infrastructure/SalesManager.Infrastructure.csproj" />
+</Solution>
